@@ -34,6 +34,7 @@ Again, use SCP for that or Copy&Paste the contents via command line. I'd recomme
 
 - `/usr/bin/presence_detection.sh`
 - `/usr/bin/presence_event.sh`
+- `/etc/config/presence`
 
 ### Create Cron job
 

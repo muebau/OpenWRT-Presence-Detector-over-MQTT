@@ -1,0 +1,6 @@
+config presence
+	option mqtthost '192.168.1.1'
+	option mqttid '1stfloor'
+	option mqttuser 'openwrt'
+	option mqttpass 'secret'
+	option mqtttopic 'openwrt/presence/wifi/'
